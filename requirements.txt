@@ -1,2 +1,7 @@
 Flask
 Gunicorn
+numpy
+pandas
+tensorflow
+sklearn.model_selection
+sklearn.preprocessing
